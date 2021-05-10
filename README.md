@@ -2,7 +2,6 @@
 
 I'm Jakub Strawa, 3rd year CS student in Warsaw, Poland at EITI (Electronics and Information Technology) faculty, Warsaw University of Technology.
 In the futurer I see myself working as mobile app developer or data scientist.
-I'm currently learning Flutter.
 
 ### Skills
 - C/C++
