@@ -1,12 +1,29 @@
 ### Hi there 👋
 
-I'm Jakub Strawa, 3rd year CS student in Warsaw, Poland at EITI (Electronics and Information Technology) faculty of Warsaw University of Technology.
+I'm Jakub Strawa, 3rd year CS student in Warsaw, Poland at EITI (Electronics and Information Technology) faculty, Warsaw University of Technology.
+In the futurer I see myself working as mobile app developer or data scientist.
+I'm currently learning Flutter.
 
 ### Skills
 - C/C++
 - Java
 - Python
 - SQL
+
+### Languages
+- Polish (native)
+- English (C2)
+- Spanish (A1)
+
+###  Projects
+|Repo|Status|Description|
+|:---|:---|:---:|
+|[emx-merger](https://github.com/JakubStrawa/emx-merging-tool)| In progress| Simple Python app merging emx files containing UML class diagram created in RSAD. Project implements custom lexer and parser. Simple GUI written with tkinter library.|
+|[extreme-airline](https://github.com/JakubStrawa/ekstremalnie-tania-linia-lotnicza)| Finished| Python app trying to maximize the profits of an airline by finding most efficient flights from generated pool.|
+|[harvester-OpenGL](https://github.com/JakubStrawa/GKOM-Harvester)| Finished| Harvester model build in C++ with OpenGL. Harvester can be steered, camera can be freely moved. Windmills and some harvester parts can be modified.|
+|[ciphers](https://github.com/JakubStrawa/ciphers-java)| Finished| Java Swing app presenting ciphers throughout ages. Each one can be tested and ran step-by-step with text from either user input or file.|
+|[ID3-tree](https://github.com/JakubStrawa/PSZT-project-2)| Finished| Pythom implementation of modified ID3 tree with purpose of deciding if a mushroom is edible.|
+|[motel-app](https://github.com/JakubStrawa/BD2_20Z_Rekrutacja)| Finished| Java app useful for motel owners. Includes SQLite3 database and simple Swing GUI.
 
 ### My GitHub stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubStrawa&show_icons=true)
