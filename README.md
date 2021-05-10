@@ -12,4 +12,4 @@ I'm Jakub Strawa, 3rd year CS student in Warsaw, Poland at EITI (Electronics and
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JakubStrawa&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubStrawa&layout=compact&hide=html,tex,javascript,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JakubStrawa&layout=compact&exclude_repo=snake-game,JakubStrawa)](https://github.com/anuraghazra/github-readme-stats)
