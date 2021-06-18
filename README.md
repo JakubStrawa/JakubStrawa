@@ -17,7 +17,8 @@ In the futurer I see myself working as mobile app developer or data scientist.
 ###  Projects
 |Repo|Status|Description|
 |:---|:---|:---:|
-|[emx-merger](https://github.com/JakubStrawa/emx-merging-tool)| In progress| Simple Python app merging emx files containing UML class diagram created in RSAD. Project implements custom lexer and parser. Simple GUI written with tkinter library.|
+|[P2P network](https://github.com/berochel/TIN)| Finished| Peer2Peer network written in C++, GUI in Qt. Network lets users connect to tracker, send and download files. Project uses UDP and IPv6.|
+|[emx-merger](https://github.com/JakubStrawa/emx-merging-tool)| Finished| Simple Python app merging emx files containing UML class diagram created in RSAD. Project implements custom lexer, parser and interpreter. Simple GUI written with tkinter library.|
 |[extreme-airline](https://github.com/JakubStrawa/ekstremalnie-tania-linia-lotnicza)| Finished| Python app trying to maximize the profits of an airline by finding most efficient flights from generated pool.|
 |[harvester-OpenGL](https://github.com/JakubStrawa/GKOM-Harvester)| Finished| Harvester model build in C++ with OpenGL. Harvester can be steered, camera can be freely moved. Windmills and some harvester parts can be modified.|
 |[ciphers](https://github.com/JakubStrawa/ciphers-java)| Finished| Java Swing app presenting ciphers throughout ages. Each one can be tested and ran step-by-step with text from either user input or file.|
