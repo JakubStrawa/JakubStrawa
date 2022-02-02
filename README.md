@@ -1,13 +1,19 @@
 ### Hi there 👋
 
-I'm Jakub Strawa, 3rd year CS student in Warsaw, Poland at EITI (Electronics and Information Technology) faculty, Warsaw University of Technology.
-In the futurer I see myself working as mobile app developer or data scientist.
+I'm Jakub Strawa, 4th year CS student in Warsaw, Poland at EITI (Electronics and Information Technology) faculty, Warsaw University of Technology.
+Currently I'm a DevOps Engineer working mainly on CI stability and reliability.
 
 ### Skills
 - C/C++
 - Java
 - Python
 - SQL
+- Docker
+- Jenkins
+- AWS (EC2,RDS,S3)
+- Jira automation
+- AWS (EC2,RDS,S3)
+- basics of Groovy
 
 ### Languages
 - Polish (native)
