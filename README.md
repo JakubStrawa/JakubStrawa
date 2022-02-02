@@ -9,10 +9,10 @@ Currently I'm a DevOps Engineer working mainly on CI stability and reliability.
 - Python
 - SQL
 - Docker
+- Ansible
 - Jenkins
 - AWS (EC2,RDS,S3)
 - Jira automation
-- AWS (EC2,RDS,S3)
 - basics of Groovy
 
 ### Languages
